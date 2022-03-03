@@ -64,10 +64,10 @@ public class MainController {
 > SOA（Service Oriented Ambiguity） 即面向服务架构 是一种设计方法，其中包含多个服务，而服务之间通过配合最终会提供一系列功能。一个服务通常以独立的形式存在于操作系统进程中。服务之间通过网络调用，而非采用进程内调用的方式进行通信。
 
 RPC
-![StudyNote](./image/WeChat9bc2dbb3c7d285181461243ea40d486d.png)
+![StudyNote](image/WeChat9bc2dbb3c7d285181461243ea40d486d.png)
 
 SOA
-![StudyNote](./image/WeChat779515736597abb4b600008e9086ee4a.png)
+![StudyNote](image/WeChat779515736597abb4b600008e9086ee4a.png)
 
 
 ## 4.既有 HTTP ,为啥用 RPC 进行服务调用?
